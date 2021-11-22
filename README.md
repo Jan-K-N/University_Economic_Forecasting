@@ -1,1 +1,1 @@
-# UNI_2
+# This repo contains replication code for my project in Economic Forecasting.
